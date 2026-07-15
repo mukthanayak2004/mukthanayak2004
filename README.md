@@ -6,7 +6,7 @@
 - 📍 Karnataka, India
 - 💡 Passionate about Artificial Intelligence, Machine Learning, and Data Analytics
 - 🌱 Currently learning Python, Machine Learning, SQL, and Power BI
-- 🎯 Goal: Become an AI Engineer and pursue my Master's in Germany 🇩🇪
+- 🎯 Goal: Become an AI Engineer 
 
 ---
 
